@@ -30,8 +30,8 @@ Status: finished
 
 ## Documentation
 
-[Technical report](https://github.com/farnazzzmovahedi/CarpetCompany/blob/main/CarpetCompany/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%81%D9%86%DB%8C.pdf)
-[Technical report](https://github.com/farnazzzmovahedi/CarpetCompany/blob/main/CarpetCompany/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%81%D9%86%DB%8C.pdf)
+- [Main doc](https://github.com/farnazzzmovahedi/CarpetCompany/blob/main/CarpetCompany/%D8%AF%D8%A7%DA%A9%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
+- [Technical report](https://github.com/farnazzzmovahedi/CarpetCompany/blob/main/CarpetCompany/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%81%D9%86%DB%8C.pdf)
 
 
 ## Feedback
